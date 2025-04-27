@@ -1,11 +1,9 @@
-import { Dashboard } from "./Dashboard";
+import React from "react";
+import Dashboard from "./pages/dashboard";
+import "./index.css";
 
-const App = () => {
-  return (
-    <div>
-      <Dashboard />
-    </div>
-  )
+function App() {
+  return <Dashboard />;
 }
 
 export default App;

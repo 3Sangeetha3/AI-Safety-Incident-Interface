@@ -17,12 +17,18 @@ Try it out right now:
 
 See it in action:
 
-<p align="center">
-  <video width="800" controls>
-    <source src="https://res.cloudinary.com/ds1ceummz/video/upload/v1745741577/Screen_Recording_2025-04-27_at_1.32.55_PM_awjc6r.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+## 🎥 Screen Recording
+
+<iframe
+  src="https://player.cloudinary.com/embed/?cloud_name=ds1ceummz&public_id=Screen_Recording_2025-04-27_at_1.32.55_PM_awjc6r&profile=cld-default"
+  width="640"
+  height="360" 
+  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
+  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+  allowfullscreen
+  frameborder="0"
+></iframe>
+
 
 ---
 

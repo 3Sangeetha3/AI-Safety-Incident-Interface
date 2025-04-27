@@ -150,12 +150,11 @@ export const IncidentForm = ({ onSubmit, showForm, setShowForm }) => {
                                 ))}
                             </div>
                         </div>
-                        <div className="pt-4">
+                        <div className="pt-4 flex items-center justify-center">
                             <button
                                 type="submit"
                                 className="bg-gradient-to-r from-teal-500 to-cyan-500 hover:from-teal-600 hover:to-cyan-600 text-white py-3 px-6 rounded-lg transition-all duration-300 font-medium shadow-md shadow-teal-500/20 transform hover:translate-y-px flex items-center justify-center gap-2 w-full sm:w-auto"
                             >
-                                <AlertTriangle size={16} />
                                 Submit Incident
                             </button>
                         </div>

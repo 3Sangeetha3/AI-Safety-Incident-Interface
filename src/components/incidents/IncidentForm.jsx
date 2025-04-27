@@ -79,7 +79,7 @@ export const IncidentForm = ({ onSubmit, showForm, setShowForm }) => {
 
             {/* Incident input Form */}
             {showForm && (
-                <div className="w-full max-w-lg mb-8 p-6 bg-white rounded-lg shadow-lg shadow-teal-500/10 border border-gray-200">
+                <div className="w-full max-w-5xl mb-8 p-6 bg-white rounded-lg shadow-lg shadow-teal-500/10 border border-gray-200">
                     <h2 className="text-2xl font-bold text-teal-600 mb-4 flex items-center gap-2">
                         <AlertTriangle size={22} />
                         Report New Incident

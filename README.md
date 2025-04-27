@@ -15,20 +15,8 @@ Try it out right now:
 
 ## 🎥 Screen Recording
 See it in action:
-Uploading Screen Recording 2025-04-27 at 1.32.55 PM.mov…
 
-## 🎥 Screen Recording
-
-<iframe
-  src="https://player.cloudinary.com/embed/?cloud_name=ds1ceummz&public_id=Screen_Recording_2025-04-27_at_1.32.55_PM_awjc6r&profile=cld-default"
-  width="640"
-  height="360" 
-  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-  allowfullscreen
-  frameborder="0"
-></iframe>
-
+https://github.com/user-attachments/assets/4c1e98de-8f94-4a81-8d49-e22b669d9eee
 
 ---
 
